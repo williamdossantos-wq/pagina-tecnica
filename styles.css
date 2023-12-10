@@ -1,0 +1,7 @@
+.fogo{
+    width:480px;
+    height:230px;
+  }
+  @media(min-width:900px){
+    html{}
+  }
